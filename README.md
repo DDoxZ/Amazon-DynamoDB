@@ -6,8 +6,7 @@ Pedro Simoes <br>
 Francisco Catarino <br>
 
 ## About
-Data Base service based in key-value format similar to the one used by Amazon DynamoDB to support multiple web services. 
-This Data Base stores information and can tolerate failiures without losing data or ever going down.
+This project involves the development of a secure and reliable key-value database inspired by Amazon DynamoDB, designed to support multiple web services with high availability and fault tolerance. The system processes concurrent client requests efficiently using multithreading, ensuring robust concurrency management and accurate shared data access. It incorporates fault tolerance through server state replication, leveraging the Chain Replication model and Apache ZooKeeper to maintain data consistency and reliability. The database guarantees durability, never losing data or experiencing downtime, making it a dependable solution for critical applications.
 This project was developed as part of the Distributed Systems subject in university, with the help of two colleagues.
 
 ## What we learned
