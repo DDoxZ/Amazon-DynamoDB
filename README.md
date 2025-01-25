@@ -1,6 +1,6 @@
+# Amazon-DynamoDB
 ![Project IMG](DB.png)
 
-# Amazon-DynamoDB
 Data Base similar to Amazon DynamoDB, made in C
 
 **This Project was made in collaboration with two other classmates:**<br>
