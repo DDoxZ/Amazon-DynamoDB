@@ -2,8 +2,8 @@
 Data Base similar to Amazon DynamoDB, made in C
 
 **This Project was made in collaboration with two other classmates:**<br>
-Pedro Simoes
-Francisco Catarino
+Pedro Simoes <br>
+Francisco Catarino <br>
 
 ## About
 Data Base service based in key-value format similar to the one used by Amazon DynamoDB to support multiple web services. 
