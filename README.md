@@ -1,5 +1,5 @@
 # Amazon-DynamoDB
-Data Base similar to Amazon DynamoDB in C
+Data Base similar to Amazon DynamoDB, made in C
 
 **This Project was made in collaboration with two other classmates:**<br>
 Pedro Simoes
