@@ -1,3 +1,5 @@
+![Project IMG](DB.png)
+
 # Amazon-DynamoDB
 Data Base similar to Amazon DynamoDB, made in C
 
